@@ -5,7 +5,7 @@ Repo: https://github.com/ucsb-cs156-w24/jpa02-thienanvuu
 
 
 
-Deployed at: https://github.com/ucsb-cs156-w24/jpa02-thienanvuu
+Deployed at: http://jpa02-thienanvuu.dokku-10.cs.ucsb.edu
 
 
 # About this repo
